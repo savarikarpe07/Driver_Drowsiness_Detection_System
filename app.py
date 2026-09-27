@@ -1,4 +1,4 @@
-%%writefile app.py
+
 # Streamlit UI for Driver Drowsiness Detection
 import streamlit as st
 import cv2
